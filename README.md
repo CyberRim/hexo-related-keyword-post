@@ -9,7 +9,7 @@ nodejs >= 6
 ```
 ## 安装
 ```
-//TODO
+npm install hexo-related-keyword-post
 ```
 ## 配置
 由于npm安装[hailiang-wang/hanlp-api](https://github.com/hailiang-wang/hanlp-api)并不包含大约几百兆的词典文件，请去此项目地址或下面的搬运链接下载，并配置好路径，
