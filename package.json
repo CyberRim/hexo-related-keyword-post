@@ -1,13 +1,15 @@
 {
   "name": "hexo-related-keyword-post",
   "version": "1.0.0",
-  "description": "auto generate keyword and link of related post",
+  "description": "A hexo plugin.Auto generate keywords and links of related posts.",
+  "keywords": ["hexo","plugin","keyword","related"],
+  "homepage": "https://github.com/CyberRim/hexo-related-keyword-post",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "cyberrim",
-  "license": "ISC",
+  "author": "cyberrim <cyberrim@foxmail.com>",
+  "license": "MIT",
   "dependencies": {
     "java": "^0.12.2",
     "lodash": "^4.17.21",
