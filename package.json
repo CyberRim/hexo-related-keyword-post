@@ -1,8 +1,13 @@
 {
   "name": "hexo-related-keyword-post",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hexo plugin.Auto generate keywords and links of related posts.",
-  "keywords": ["hexo","plugin","keyword","related"],
+  "keywords": [
+    "hexo",
+    "plugin",
+    "keyword",
+    "related"
+  ],
   "homepage": "https://github.com/CyberRim/hexo-related-keywords-post",
   "main": "index.js",
   "scripts": {
